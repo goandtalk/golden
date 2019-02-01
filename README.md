@@ -1,14 +1,17 @@
 # Static Files of Go and Talk Golden Theme
-These are the static files of Golden theme required to browse exported web page from Go and Talk page builder. 
+These are the static files of Golden theme required to browse exported web pages from Go and Talk page builder. 
+
+You can view pages using Go and Talk page builder without exporting. The exported pages are free from editors, lighter in weight, and faster in rendering. The exported files can also link to local image files properly.
 
 ## How to Use The Static Files for Local Presentation
 * download the zip file, and unzip to your hard disk. 
 * the unzipped folder is the root folder of your project, and it should have the following subfolders
 
 ``` text
-  | js
-  | css
-  | images
+project/
+  |-- js
+  |-- css
+  |-- images
 ```
 
 * you can create more subfolders to organize contents.
@@ -26,4 +29,6 @@ Go and Talk page builder is a lightweight web design app running in the browser.
 
 ## License
 
-The MIT license applies to these static files only. Go and Talk page builder and the Golden theme are released under separate license. 
+The MIT license applies to these static files only. Go and Talk page builder and the Golden theme are released under separate licenses. 
+
+Some components of Font Awesome are included in the js folder, with its own license statement in that folder. 
