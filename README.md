@@ -1,4 +1,4 @@
-# Go and Talk Golden Theme
+# Static Files of Go and Talk Golden Theme
 These are the static files of Golden theme required to browse exported web page from Go and Talk page builder. 
 
 ## How to Use The Static Files for Local Presentation
