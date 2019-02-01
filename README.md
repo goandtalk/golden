@@ -10,7 +10,11 @@ These are the static files of Golden theme required to browse exported web page 
 * you can create more subfolders to organize contents.
 * save the images you want to use for presentation under the folder `images`
 * when you prepare slides, select images from `images` folder for preview. The images are displayed for that browsing session only. They are not saved in browser database since you already have them on your local disk.
-* when the slides are done, you can select local mode and export the finished page to this folder.
+* when the slides are done, you can select local mode and export the finished page to this folder. 
+* Web pages exported in local mode will include links in a format understood by filesystem.
+
+## About Golden Theme
+The Golden theme is a general purpose theme to use with Go and Talk page builder for landing pages or presenting ideas. It contains customizable template blocks to compose a webpage quickly in the browser. This theme includes editors to select Font Awesome icons from a list for illustration or decoration. The selected icons are rendered with SVG files.
 
 ## About Go and Talk Page Builder
 
